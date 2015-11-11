@@ -19,16 +19,18 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
 - 2 large eggs
+- 1 pitcher beer
 
 
 ##Dry Ingredients
 - 2 1/4 cups all-purpose flour
 - 1/2 teaspoon baking soda
 - 2 cups (about 12 ounces) semisweet and/or milk chocolate chips
+- 2 green frogs
 
 
 ##Cooking Directions
-- Preheat oven to 350 degrees.
+- Preheat oven to 550 degrees.
 - In a small bowl, whisk together the flour and baking soda; set aside.
 - In the bowl of an electric mixer fitted with the paddle attachment, combine
   the butter with both sugars; beat on medium speed until light and fluffy.
